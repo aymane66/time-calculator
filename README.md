@@ -32,14 +32,14 @@ The Time Calculator is a Python script that takes a start time, a duration, and 
 
 ## What I Learned
 
-### 1. Time Handling in Python
+1. Time Handling in Python
 I learned how to manipulate time in Python, including parsing time strings, performing arithmetic operations, and formatting time in a user-friendly manner.
 
-### 2. User Input and Validation
+2. User Input and Validation
 Implementing user input and ensuring its validity were crucial aspects of this project. I explored methods to handle user input and incorporated error checking to enhance the robustness of the script.
 
-### 3. Modular Programming
+3. Modular Programming
 Breaking down the functionality into separate modules (`time_calculator.py` and `main.py`) allowed for a more organized and maintainable codebase.
 
-### 4. Working with Dates and Days of the Week
+4. Working with Dates and Days of the Week
 Handling days of the week and calculating days later involved dealing with date-related concepts. This project provided me with hands-on experience in managing dates and understanding how they interact with time.
